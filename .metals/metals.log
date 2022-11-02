@@ -1,0 +1,10 @@
+2022.11.02 22:51:52 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /workspace/pokecrystal/.metals/lsp.trace.json or /home/gitpod/.cache/metals/lsp.trace.json
+2022.11.02 22:51:53 INFO  logging to file /workspace/pokecrystal/.metals/metals.log
+2022.11.02 22:51:53 INFO  Started: Metals version 0.11.9 in workspace '/workspace/pokecrystal' for client Gitpod Code - Insiders 1.73.0-insider.
+2022.11.02 22:51:55 INFO  time: initialize in 2.16s
+2022.11.02 22:51:57 WARN  Build server is not auto-connectable.
+2022.11.02 22:51:57 WARN  no build tool detected in workspace '/workspace/pokecrystal'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.11.02 22:52:50 WARN  Build server is not auto-connectable.
+2022.11.02 22:52:52 WARN  Build server is not auto-connectable.
+2022.11.02 22:52:54 WARN  Build server is not auto-connectable.
+2022.11.02 22:52:54 WARN  Build server is not auto-connectable.
