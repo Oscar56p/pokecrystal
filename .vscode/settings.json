@@ -1,5 +1,8 @@
 {
     "yaml.schemas": {
         "https://json.schemastore.org/sourcehut-build-0.65.0.json": "file:///workspace/pokecrystal/.gitpod.yml"
+    },
+    "objectscript.conn": {
+        "active": true
     }
 }
