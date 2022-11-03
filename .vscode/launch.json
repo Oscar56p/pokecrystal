@@ -1,5 +1,11 @@
 {
-    "configurations": [
+    "configurations": [ {
+        "name": "RobotCode: Run All",
+        "type": "robotcode",
+        "request": "launch",
+        "cwd": "${workspaceFolder}",
+        "target": "."
+    },
     {
         "type": "lldb",
         "request": "launch",
